@@ -1,10 +1,10 @@
 # ブラウザだけでWebサイトを公開してみよう！
 
-GitHub Pages Lightning Talk（LT）
+
 
 ## 1. 今日のゴール
 
-ローカル環境を用意せず、GitHubのブラウザ画面だけでWebサイトを公開する。
+ローカル環境なしで、GitHubのブラウザ画面だけでWebサイトを公開する。
 
 ## 2. GitHub Pagesとは？
 
