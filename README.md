@@ -46,10 +46,10 @@ GitHubのリポジトリにあるHTML、CSS、JavaScriptなどを静的Webサイ
 
 ## 6. デモサイト
 
-| ページ | ソースコード |
-| --- | --- |
-| [文字だけのページ](https://kazec-m.github.io/pages-night/) | [index.html](./index.html) |
-| [HTMLで構成したページ](https://kazec-m.github.io/pages-night/about.html) | [about.html](./about.html) |
+| ページ | 公開URL | ソースコード |
+| --- | --- | --- |
+| index.html（文字だけのページ） | [Webサイトを開く](https://kazec-m.github.io/pages-night/) | [HTMLを見る](https://github.com/kazec-m/pages-night/blob/main/index.html) |
+| about.html（正式なHTML・GitHubの猫マーク付き） | [Webサイトを開く](https://kazec-m.github.io/pages-night/about.html) | [HTMLを見る](https://github.com/kazec-m/pages-night/blob/main/about.html) |
 
 ## 7. 参考資料
 
